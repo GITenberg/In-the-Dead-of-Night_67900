@@ -5,6 +5,9 @@ contributor:
     agent_name: Rogers, Frances
     gutenberg_agent_id: '9480'
     url: http://www.gutenberg.org/2009/agents/9480
+covers:
+- cover_type: archival
+  image_path: 67900-h/images/cover.jpg
 creator:
   author:
     agent_name: McIntyre, John T. (John Thomas)
@@ -15,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4311
     wikipedia: https://en.wikipedia.org/wiki/John_T._McIntyre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67900#In-the-Dead-of-Night
 gutenberg_issued: '2022-04-22'
 identifiers:
   gutenberg: '67900'
